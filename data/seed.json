@@ -1,0 +1,28 @@
+{
+  "_version": "1.0.0",
+  "_description": "Dataset inicial de items para Demo API",
+  "_created": "2026-11-13",
+  "items": [
+    {
+      "id": 1,
+      "nombre": "Laptop",
+      "precio": 1299.99,
+      "stock": 5,
+      "descripcion": "Laptop gamer"
+    },
+    {
+      "id": 2,
+      "nombre": "Teclado",
+      "precio": 89.90,
+      "stock": 20,
+      "descripcion": "Mecánico RGB"
+    },
+    {
+      "id": 3,
+      "nombre": "Monitor",
+      "precio": 450.00,
+      "stock": 8,
+      "descripcion": "27\" 144Hz"
+    }
+  ]
+}
